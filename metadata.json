@@ -1,0 +1,6 @@
+{
+  "name": "Marast General Mechanics (MGM)",
+  "description": "Corporate website for Marast General Mechanics (MGM) - Ethiopian Electro-Mechanical Engineering, Food-Grade Stainless Steel Fabrication, and Industrial Equipment Solutions established in 2008.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
